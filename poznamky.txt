@@ -1,3 +1,4 @@
 - no jsem zvědav jak tenhle tutoriál dopadne
 - spojil jsem branche a vyřešil konflikt
 - ještě nevím jak funguje diff a reset
+- tak jsem to synchronizoval s Githubem, jen ten SSH Key nefunguje
